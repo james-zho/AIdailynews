@@ -1,0 +1,152 @@
+{
+  "last_updated": "2025-05-26",
+  "news": [
+    {
+      "title": "AI能否解决未来全球粮食危机？",
+      "summary": "人工智能有望通过更快、更可持续的创新革新全球粮食系统，从植物性替代品到新型食品解决方案。斯坦福大学教授Ellen Kuhl强调AI在食品创新中的潜力，同时指出AI不是万能药，无法完全取代人类专业知识。",
+      "date": "2025-05-25",
+      "source": "News-Medical.net",
+      "url": "https://www.news-medical.net/news/20250525/Can-AI-solve-tomorrowe28099s-global-food-crisis.aspx"
+    },
+    {
+      "title": "JISC发布'学生对AI的看法2025'报告",
+      "summary": "英国学生正在将AI视为学术和个人生活的重要组成部分，但他们越来越呼吁更明确的指导、更公平的访问权限，以及在AI如何融入教育方面有更大的发言权。",
+      "date": "2025-05-25",
+      "source": "Charleston Hub",
+      "url": "https://www.charleston-hub.com/2025/05/jisc-releases-student-perceptions-of-ai-2025-report-plus-more-atg-news-announcements-for-5-26-25/"
+    },
+    {
+      "title": "习近平计划在AI领域超越美国",
+      "summary": "中国领导人相信他们可以在人工智能领域超越美国的资金和乌托邦主义。美国副总统J.D. Vance将AI发展描述为与中国的'军备竞赛'，警告如果美国因AI安全担忧而暂停发展，可能会发现自己'受制于中国主导的AI'。",
+      "date": "2025-05-25",
+      "source": "The Economist",
+      "url": "https://www.economist.com/china/2025/05/25/xi-jinpings-plan-to-overtake-america-in-ai"
+    },
+    {
+      "title": "AI数据中心能源需求的日益增长的环境影响",
+      "summary": "随着人工智能技术的兴起，对电厂的需求正在增加，这在很大程度上是由于AI对数据中心的依赖。美国环保署据报道起草了一项计划，旨在消除对发电厂温室气体排放的所有限制。",
+      "date": "2025-05-25",
+      "source": "PBS News",
+      "url": "https://www.pbs.org/newshour/show/the-growing-environmental-impact-of-ai-data-centers-energy-demands"
+    },
+    {
+      "title": "从LLM到幻觉，这是常见AI术语的简单指南",
+      "summary": "人工智能是一个深奥而复杂的世界。在这个领域工作的科学家经常依赖行话和术语来解释他们的工作内容。本文提供了一个术语表，定义了我们在报道中使用的一些最重要的词汇和短语。",
+      "date": "2025-05-25",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/05/25/from-llms-to-hallucinations-heres-a-simple-guide-to-common-ai-terms/"
+    },
+    {
+      "title": "第一夫人称AI是出版业的未来，这已经在发生",
+      "summary": "梅拉尼娅·特朗普周四发布了她的回忆录的有声读物版本，但实际上并不是她本人朗读的。特朗普的选择将AI及其在媒体创作中的使用推向了更大的舞台，暗示了AI可能很快在创建从人们阅读的新闻文章到他们观看的视频和节目中扮演更大的角色。",
+      "date": "2025-05-25",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/05/25/tech/melania-trump-audiobook-ai-future-of-media"
+    },
+    {
+      "title": "AI正在腐蚀你的大脑并使你变得愚蠢",
+      "summary": "探索AI如何重塑创造力、技术和我们的认知过程，提出关于我们在这个数字时代获得和失去什么的问题。作者认为，过度依赖AI可能会导致我们失去关键的认知能力和创造性思维过程。",
+      "date": "2025-05-25",
+      "source": "New Atlas",
+      "url": "https://newatlas.com/ai-humanoids/ai-is-rotting-your-brain-and-making-you-stupid/"
+    },
+    {
+      "title": "AI正在'破坏'Gen Z工人启动职业所需的入门级工作",
+      "summary": "LinkedIn首席经济机会官Aneesh Raman警告，人工智能越来越威胁到那些历来作为年轻工人职业起点的工作类型。他将这种变化比作20世纪80年代制造业的衰退，指出职业阶梯的底层正在首先被打破。",
+      "date": "2025-05-25",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/05/25/ai-entry-level-jobs-gen-z-careers-young-workers-linkedin/"
+    },
+    {
+      "title": "美国参议院是否会推进州AI法律暂停令？",
+      "summary": "5月22日，美国众议院通过了一项预算法案，其中包括'人工智能和信息技术现代化倡议'，该倡议包括对州AI法律执行的10年暂停令。Tech Policy Press编辑Justin Hendrix和副编辑Cristiano Lima-Strong讨论了这一暂停令、围绕它的辩论轮廓以及它在参议院的前景。",
+      "date": "2025-05-25",
+      "source": "Tech Policy Press",
+      "url": "https://www.techpolicy.press/will-a-moratorium-on-state-ai-laws-advance-in-the-us-senate/"
+    },
+    {
+      "title": "企业AI爆发，SAP和微软领先，代理变得更智能",
+      "summary": "人工智能领域经历了又一周的剧变，SAP和微软等主要企业参与者公布了雄心勃勃的战略，新的AI代理承诺重塑工作流程，以及基础模型的持续进步。SAP明确表示，其AI副驾驶Joule将成为用户体验中不可或缺的一部分。",
+      "date": "2025-05-25",
+      "source": "Medium",
+      "url": "https://medium.com/@sidbhat/enterprise-ai-explodes-sap-microsoft-lead-the-charge-and-agents-get-smarter-c9c5e20084c6"
+    },
+    {
+      "title": "AI推动部分中国公司增长，分析师分享选择",
+      "summary": "尽管面临经济逆风，人工智能支出帮助一些中国科技公司在第一季度获得了增长动力。分析师推荐了几家在AI领域有竞争优势的中国公司作为投资选择。",
+      "date": "2025-05-25",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/05/25/ai-drives-growth-for-a-few-chinese-companies-analysts-share-picks.html"
+    },
+    {
+      "title": "AI驱动的智能眼镜能否帮助发现药物错误？",
+      "summary": "华盛顿大学的研究人员正在研究通过使用AI智能眼镜部分解决药物错误问题的方法。每天都有人因获得错误的药物或正确药物的不当剂量而死亡，研究人员希望AI可以帮助发现这些错误。",
+      "date": "2025-05-25",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2025/can-ai-powered-smart-glasses-help-spot-medication-errors/"
+    },
+    {
+      "title": "用下一代抗体疗法、AI能力和现实世界影响为生物医学充电",
+      "summary": "2025年ATC抗体药物和第20届先进生物医学科学新知识研讨会将重点介绍抗体治疗、mRNA疫苗、细胞治疗和生物医学创新方面的突破性技术。人工智能在革新治疗开发中发挥着关键作用，增强TCR和靶点发现，加速抗体优化并改变精准医学的设计方式。",
+      "date": "2025-05-25",
+      "source": "GeneOnline",
+      "url": "https://www.geneonline.com/supercharging-biomed-with-next-gen-antibody-therapies-ai-power-and-real-world-impact/"
+    },
+    {
+      "title": "AI将改变电信业但不会完全取代人类，新Optus CEO表示",
+      "summary": "Stephen Rue表示人工智能将改善客户服务和效率，但决策仍需要人类参与。尽管AI技术将在电信行业发挥越来越重要的作用，但人类的判断和创造力仍然是不可替代的。",
+      "date": "2025-05-25",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2025/may/26/artificial-intelligence-humans-optus-ceo-stephen-rue"
+    },
+    {
+      "title": "人类打辩论不如GPT-4？Nature子刊研究显示AI胜率达64.4%",
+      "summary": "《自然·人类行为》最新研究显示，GPT-4在辩论中表现优于人类。实验招募900名参与者与AI或人类进行10分钟辩论，涉及社会议题。当GPT-4获知对手个人信息后，胜率达64.4%，说服效果提升81.2%。研究还发现，GPT-4在低、中争议话题中表现更佳，语言风格更重逻辑而非情感。",
+      "date": "2025-05-25",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/zx/ds/2025-05-25/doc-inexuqcw3728791.shtml"
+    },
+    {
+      "title": "英伟达将为中国市场推出新AI芯片，售价大幅低于先前H20芯片",
+      "summary": "英伟达将为中国市场推出基于Blackwell架构的AI芯片，售价6500-8000美元，大幅低于此前H20芯片，预计6月量产。这是英伟达第三次推出符合美国出口限制的降级版芯片。由于美国禁令，H20芯片无法继续修改，英伟达CEO黄仁勋称对华AI芯片管制失败，导致其中国市场份额从95%降至50%。",
+      "date": "2025-05-25",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/zx/ds/2025-05-25/doc-inexuqcw3728791.shtml"
+    },
+    {
+      "title": "前OpenAI高管新作力挺模型思考，哈佛却称AI越思考越笨",
+      "summary": "前OpenAI高管翁荔最新研究主张增加AI模型思考时间可显著提升复杂任务表现，通过思维链推理等方法模仿人类慢思考系统。然而哈佛大学团队5月最新研究指出，过度思考可能导致模型注意力分散，在指令遵循任务中准确率下降。这些观点折射出AI发展中的核心矛盾：模型越接近人类思考模式，就越暴露出与真实意识的本质差异。",
+      "date": "2025-05-25",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/zx/ds/2025-05-25/doc-inexuqcw3728791.shtml"
+    },
+    {
+      "title": "华为鲲鹏、昇腾生态已发展超过665万开发者，8800多家合作伙伴",
+      "summary": "华为在KADC2025大会上宣布，鲲鹏、昇腾生态已拥有超665万开发者和8800多家合作伙伴，完成23900多个解决方案认证。华为推出鲲鹏AI+解决方案及开源社区openFuyao，强化AI Core、AI Infra及AI应用能力，发布RAG解决方案1.0，持续推动计算产业生态繁荣。",
+      "date": "2025-05-25",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/zx/ds/2025-05-25/doc-inexuqcw3728791.shtml"
+    },
+    {
+      "title": "MIT科学家打破50年理论僵局：算法少量内存胜过大量时间",
+      "summary": "MIT科学家Ryan Williams最新研究打破50年理论僵局，证明算法中少量内存可显著优于大量计算时间。该研究通过创新的柔性石子存储方法，将任意算法转化为空间占用仅为时间平方根的新形式，颠覆了传统时空复杂度正比认知，为计算机基础理论带来重大突破。",
+      "date": "2025-05-25",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/zx/ds/2025-05-25/doc-inexuqcw3728791.shtml"
+    },
+    {
+      "title": "15亿美元AI独角兽Builder.ai崩塌，被曝全是印度程序员冒充AI",
+      "summary": "印度AI编程公司Builder.ai被曝全是人工，没有智能，其创始人通过虚假AI宣传从微软、软银等巨头骗取超4.45亿美元融资，公司估值曾达15亿美元。调查发现该公司实际由印度程序员伪装AI工作，这一骗局持续8年后终在2025年5月破产，成为ChatGPT热潮后最大AI初创倒闭案。",
+      "date": "2025-05-25",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/zx/ds/2025-05-25/doc-inexuqcw3728791.shtml"
+    },
+    {
+      "title": "首届国际通用人工智能大会在北京召开，展示全球AGI领域最前沿成果",
+      "summary": "2025年5月24至25日，北京通用人工智能学会主办的首届国际通用人工智能大会在北京召开。大会展示了当前全球AGI领域的最前沿成果，来自东西方的专家学者共同探讨了通用人工智能的未来发展方向、技术挑战和伦理问题，为推动AGI研究和应用提供了重要平台。",
+      "date": "2025-05-25",
+      "source": "国际科技创新中心",
+      "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202505/t20250526_205809.html"
+    }
+  ]
+}
